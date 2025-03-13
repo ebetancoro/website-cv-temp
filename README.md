@@ -1,6 +1,6 @@
 # Personal Website
 
-This is a simple personal website that showcases my CV and provides links to my professional profiles on LinkedIn and GitHub. The website is designed to be a minimalistic space where you can view and download my CV in PDF format, as well as access links to my social and professional accounts.
+This is a simple personal website that showcases my CV and provides links to my professional profiles on LinkedIn and GitHub. The website is designed to be a minimalistic space where you can view and download my CV in PDF format, as well as access links to my social and professional accounts. It is temporary while I focus on creating my actual website. I am not a frontend developer so it may take a while. I am in between projects but I'll keep you updated.
 
 ## Project Structure
 
